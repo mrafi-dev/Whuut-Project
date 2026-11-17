@@ -99,7 +99,7 @@ const STORE_CONFIG = {
   instagramHandle: '@username-toko',
 };
 ```
-> ⚠️ **Catatan Penting Keamanan**: Pastikan nomor WhatsApp ditulis dalam format internasional angka murni (contoh: `'628123456789'`). Jangan mengunggah kredensial atau nomor pribadi sensitif ke repositori publik jika tidak diinginkan.
+> ⚠️ **Catatan Penting Keamanan**: Pastikan nomor WhatsApp ditulis dalam format internasional angka murni (contoh: `'628123456789'`). Nomor pada repositori ini adalah nomor WhatsApp bisnis publik brand whüut dan dipakai atas izin pemiliknya. Jika memakai proyek ini sebagai template, ganti dengan nomor Anda sendiri.
 
 ### 2. Data Koleksi Parfum (`PERFUMES`)
 Daftar produk disimpan dalam array `PERFUMES` di `src/App.jsx`. Anda dapat memperbarui data berikut untuk setiap varian:
